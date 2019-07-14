@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="notification_error_ssl_cert_invalid">ssl certification invalid</string>
+    <string name="todo">TODO</string>
+    <string name="mgbemena_anthony">Mgbemena Anthony</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_nigeria">Country: Nigeria</string>
+    <string name="email_mgbemenaa_gmail_com">Email: Mgbemenaa@gmail.com</string>
+    <string name="phone_number_07061148933">Phone Number: 07061148933</string>
+    <string name="slack_username_tony_stark50">Slack Username: @tony_stark50</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="Todo">TODO</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_ALC">ABOUT ALC</string>
+    <string name="my_Profile">MY PROFILE</string>
+</resources>
